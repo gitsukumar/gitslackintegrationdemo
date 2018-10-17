@@ -1,2 +1,3 @@
 # gitslackintegrationdemo
-git slack integration practice project
+# git slack integration practice project
+first commit
